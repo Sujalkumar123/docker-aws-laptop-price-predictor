@@ -25,7 +25,7 @@
 ## Installation & Setup ⚙️
 
 1. **Clone the repository**
-```bash
+
 git clone https://github.com/username/laptop-price-predictor.git
 cd laptop-price-predictor
 
