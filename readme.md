@@ -77,4 +77,5 @@ Example Response:
 ## Contributing 🤝
 
 • Fork the repository and create a pull request.
+
 • Feel free to improve the model, add features, or optimize deployment.
